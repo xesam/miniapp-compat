@@ -1,0 +1,28 @@
+{
+  "name": "@xesam/miniapp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "26.4.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xesam/miniapp.git"
+  },
+  "keywords": [],
+  "author": "xesam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xesam/miniapp/issues"
+  },
+  "homepage": "https://github.com/xesam/miniapp#readme"
+}
